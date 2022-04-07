@@ -1,0 +1,1 @@
+<?php $RDS_URL='localhost:3306'; $RDS_database='ASSIGNMENT'; $RDS_username='root'; $RDS_password=''; ?>
